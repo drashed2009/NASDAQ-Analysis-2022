@@ -1,0 +1,6 @@
+symbol,name,price,pricing_changes,pricing_percentage_changes,market_cap,earnings_per_share,annualized_dividend,symbol_yield,beta
+BC^C,Brunswick Corporation 6.375% Notes due 2049,136.18,110.18,423.77,239200000,64429.55051724139,1.7648148148148148,6.546296296296297,1
+BKNG,Booking Holdings Inc. Common Stock,2185.21,105.03,5.05,88723042324,28.12,0.98,1.7149999999999999,1.21
+MELI,"MercadoLibre, Inc. Common Stock",1041.44,89.1,9.36,51808022899,1.69,1.9455999999999998,4.624,1.51
+AMZN,"Amazon.com, Inc. Common Stock",3009.07,61.74,2.09,1511267897700,64.78,1.088,0.40800000000000003,1.11
+TPL,Texas Pacific Land Corporation Common Stock,1295,51.81,4.17,10030260625,34.84,12,0.93,2.24
